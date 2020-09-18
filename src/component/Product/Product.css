@@ -1,0 +1,21 @@
+.product-list{
+    border: 1px solid #d8d6d6;
+    padding: 10px 10px;
+    margin: 15px;
+    border-radius: 10px;
+    display: flex;
+}
+.product-name{
+    padding: 5px;
+    padding-left: 15px;
+    color: rgb(40, 67, 77);
+    
+}
+.add-to-cart-btn{
+    padding: 8px 50px;
+    background-color: goldenrod;
+    border: 1px solid rgb(192, 185, 185);
+    border-radius: 5px;
+    margin-top: 15px ;
+    cursor: pointer;
+}
